@@ -29,7 +29,7 @@ This case study analyzes the performance of an e-commerce marketplace from purch
   Inversely, Moveis Sala (Living room furniture) products seem to have generated the least amount of revenue with €86.6k and PCS (Pieces/Parts) have the lowest popularity with only 203 items sold.
 
 ### Seller Performance
-- What are the top 200 sellers based on how active they are (number of order taken) compared to their average customer rating and average early deliveries?
+- Top 200 sellers based on how active they are (number of order taken) compared to their average customer rating and average early deliveries:
 - Average Customer Ratings:
 
   <img width="575" height="325" alt="image" src="https://github.com/user-attachments/assets/2e789d3c-4540-4309-9b2f-28667f300703" />
@@ -44,13 +44,13 @@ This case study analyzes the performance of an e-commerce marketplace from purch
 
   A seller based in Sao Paulo, SP who has delivered 1,151 orders has the highest average customer rating of 4.23.
 
--Which seller has the highest early deliveries with at least 1000 orders delivered?
+- Which seller has the highest early deliveries with at least 1000 orders delivered?
 
   <img width="1161" height="648" alt="image" src="https://github.com/user-attachments/assets/3c7d3c69-3e48-4862-8d8d-d9d9e0ae597c" />
 
   A seller based in Campo Limpo Paulista, SP who has delivered 1069 orders has the highest average early deliveries of 12.41 days.
 
--Who are the top 3 most active sellers?
+- Who are the top 3 most active sellers?
   
   <img width="578" height="328" alt="image" src="https://github.com/user-attachments/assets/3b8834b9-3165-4f26-89f5-1bcb3a581294" />
 
