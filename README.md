@@ -44,4 +44,15 @@ This case study analyzes the performance of an e-commerce marketplace from purch
 
   A seller based in Sao Paulo, SP who has delivered 1,151 orders has the highest average customer rating of 4.23.
 
--
+-Which seller has the highest early deliveries with at least 1000 orders delivered?
+
+  <img width="1161" height="648" alt="image" src="https://github.com/user-attachments/assets/3c7d3c69-3e48-4862-8d8d-d9d9e0ae597c" />
+
+  A seller based in Campo Limpo Paulista, SP who has delivered 1069 orders has the highest average early deliveries of 12.41 days.
+
+-Who are the top 3 most active sellers?
+  
+  <img width="578" height="328" alt="image" src="https://github.com/user-attachments/assets/3b8834b9-3165-4f26-89f5-1bcb3a581294" />
+
+  3 sellers based on Santo Andre, Ibitinga and Sao Paulo, SP have the highest delivery counts of 1,698, 1,785 and 1838 respectively.
+
