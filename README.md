@@ -12,7 +12,7 @@ This case study analyzes the performance of an e-commerce marketplace from purch
   
   <img width="575" height="326" alt="image" src="https://github.com/user-attachments/assets/09fd2509-567a-4590-99ed-0f37ceb3f9f4" />
 
-  The number of products sold has been increasing in a relatively linear fashion with the first quarter of 2018 having the highest order count.
+  The number of products sold has been increasing in a relatively linear fashion with the first quarter of 2018 having the highest order count, after which it experienced a decline in the following quarters.
 
 - How does the revenue over time?
 
