@@ -14,13 +14,13 @@ This case study analyzes the performance of an e-commerce marketplace from purch
 
   The number of products sold has been increasing in a relatively linear fashion with the first quarter of 2018 having the highest order count, after which it experienced a decline in the following quarters.
 
-- How does the revenue over time?
+- How does the revenue change over time?
 
   <img width="576" height="326" alt="image" src="https://github.com/user-attachments/assets/6b2e0f6e-99fe-410c-ba2b-82b65ce65f9c" />
 
   The rate of change is almost the same as the number of orders, except the market made a greater profit in the second quarter of 2018 compared to the first quarter.
 
-- What is the total revenue and number of products sold by category?
+### Category Value
 
   <img width="575" height="324" alt="image" src="https://github.com/user-attachments/assets/aea00620-0187-4dc7-8672-0d1bfc7987c8" />
 
