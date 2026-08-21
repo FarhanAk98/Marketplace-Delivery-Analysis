@@ -11,6 +11,9 @@ This case study analyzes the performance of an e-commerce marketplace from purch
 ### Table of Contents:
 
 * [Performance over Time](#performance-over-time)
+* [Category Value](#category-value)
+* [Seller Performance](#seller-performance)
+* [Impact of Delivery Time on Customer Ratings](#impact-of-delivery-time-on-customer-ratings)
 
 ### Performance over time
 - How many products were sold over time?
@@ -62,7 +65,7 @@ This case study analyzes the performance of an e-commerce marketplace from purch
 
   3 sellers based on Santo Andre, Ibitinga and Sao Paulo, SP have the highest delivery counts of 1,698, 1,785 and 1838 respectively.
 
-### Impact of Delivery time on customer ratings
+### Impact of Delivery Time on Customer Ratings
 
 - What is the average customer ratings on orders based on delivery time?
 
