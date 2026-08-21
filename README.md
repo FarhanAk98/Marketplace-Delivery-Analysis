@@ -21,7 +21,8 @@ This case study analyzes the performance of an e-commerce marketplace from purch
   The rate of change is almost the same as the number of orders, except the market made a greater profit in the second quarter of 2018 compared to the first quarter.
 
 ### Category Value
-
+- What is the order count and total revenue of each category?
+  
   <img width="575" height="324" alt="image" src="https://github.com/user-attachments/assets/aea00620-0187-4dc7-8672-0d1bfc7987c8" />
 
   According to the visuals, Beleza Saude (Beauty and Health) products seem to generate the highest revenue with the amount of €1.4M whereas Cama, Mesa, Banho (Bed, Table and Bath) products are the most popular with around 11k items sold.
