@@ -56,3 +56,23 @@ This case study analyzes the performance of an e-commerce marketplace from purch
 
   3 sellers based on Santo Andre, Ibitinga and Sao Paulo, SP have the highest delivery counts of 1,698, 1,785 and 1838 respectively.
 
+### Impact of Delivery time on customer ratings
+
+-What is the average customer ratings on orders based on delivery time?
+
+  <img width="578" height="327" alt="image" src="https://github.com/user-attachments/assets/80cd22ec-5f48-41cf-93ac-80f567d99eeb" />
+
+  Based on the graph, customer ratings are consistently high on Early and Very Early Deliveries with a slight decline on orders that are delivered on time.
+  Whereas the average rating orders declines the more late the orders are delivered.
+
+-What is the customer leniency on orders that have either been delivered late or very late, i.e, what is the percentage of those orders that have rating less than 2?
+
+  <img width="578" height="325" alt="image" src="https://github.com/user-attachments/assets/aa17bc74-5e03-4d3a-9b4c-c3127877e8ec" />
+
+  Around 60% of customers have given a rating less than 2 on orders that were delivered late (1-19 days), and the rest 40% have given more than or equal to 2, indicating low leniency.
+
+  <img width="577" height="324" alt="image" src="https://github.com/user-attachments/assets/b6439903-6aff-4a6d-8f4b-b176a75d2867" />
+
+  As for orders that were delivered very late (20+ days), around 77.45% of customers have given a rating less than 2, and only 22.55% giving a score of more than 2 indicating very low leniency.
+
+
