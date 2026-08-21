@@ -7,6 +7,11 @@ This case study analyzes the performance of an e-commerce marketplace from purch
 <img width="1031" height="806" alt="ER" src="https://github.com/user-attachments/assets/b93c976c-ebc5-4eec-a011-82953fffc779" />
 
 ## Data Analysis
+
+### Table of Contents:
+
+* [Performance over Time](#performance-over-time)
+
 ### Performance over time
 - How many products were sold over time?
   
