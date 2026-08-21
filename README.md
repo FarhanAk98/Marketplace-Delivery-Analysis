@@ -10,7 +10,7 @@ This case study analyzes the performance of an e-commerce marketplace from purch
 
 ### Table of Contents:
 
-[[_TOC_]]
+[TOC]
 
 * [Performance over Time](#performance-over-time)
 * [Category Value](#category-value)
