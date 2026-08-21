@@ -10,12 +10,11 @@ This case study analyzes the performance of an e-commerce marketplace from purch
 
 ### Table of Contents:
 
-[TOC]
-
 * [Performance over Time](#performance-over-time)
 * [Category Value](#category-value)
 * [Seller Performance](#seller-performance)
 * [Impact of Delivery Time on Customer Ratings](#impact-of-delivery-time-on-customer-ratings)
+* [Most Active Cities/States (with at least 500 orders)](#most-active-cities/states-with-at-least-500-orders)
 
 ### Performance over time
 - How many products were sold over time?
